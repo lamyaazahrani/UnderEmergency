@@ -3,4 +3,4 @@ A smart, AI-powered web application built to transform emergency medical triage.
 ## Quick Links
 
 - Live User Web App: [User app Under Emergency]((https://tile-sleeve-41835198.figma.site/)ا)
-- Live Dashboard Healthcare provider: [User app Under Emergency]([(https://tile-sleeve-41835198.figma.site/](https://pose-refine-14366479.figma.site/))ا)
+- Live Dashboard Healthcare provider: [User app Under Emergency]([[(https://tile-sleeve-41835198.figma.site/](https://pose-refine-14366479.figma.site/))ا](https://pose-refine-14366479.figma.site/))
